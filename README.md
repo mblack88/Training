@@ -6,6 +6,6 @@
   - is a *collaberation* platform built on top of a distributed version control system call *git*
   - GitHub prvides a number of feature to help you and your team collaborate.  
     `Bring up the GitHub website to show the menu bar for issues, etc.` 
-    - Talk to the men items on the screen
+    - Talk to the menu items on the screen
   
   
